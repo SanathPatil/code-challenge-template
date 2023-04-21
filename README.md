@@ -6,4 +6,6 @@
 
 dataRead.py is used for all the ETL(Extract, transform, Load) steps
 test.py is used for Unit testing
-Addionally Postman was used to validate REst API's
+Additionally Postman was used to validate REst API's
+
+Note: Please delete database.db and re-run dataRead.py for ETL process to run from beginning.
